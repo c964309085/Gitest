@@ -13,3 +13,4 @@ def mylister(currdir):
 
 if __name__ == '__main__':
     mylister(sys.argv[1])                         # dir name in cmdline
+###  # dir name in cmdline # dir name in cmdline
